@@ -1,10 +1,14 @@
-# create-react-app-with-sass-bootstrap
+# create-react-app-with-sass-bootstrap-redux
 
 ## Features
 
 - create-react-app 2
 - SASS with node-sass
 - Bootstrap with bootstrap 5
+- redux with redux 4.1
+- recoil
+- history
+- animated-css
 
 ## Installation
 

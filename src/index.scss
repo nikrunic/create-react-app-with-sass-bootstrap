@@ -17,6 +17,8 @@ $primary-background: #222;
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Remove list styles (bullets/numbers) */
